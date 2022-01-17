@@ -1,4 +1,4 @@
-package com.twoodby.mynotes.ui
+package com.twoodby.mynotes.feature_note.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
